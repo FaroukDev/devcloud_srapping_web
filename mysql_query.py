@@ -36,3 +36,12 @@ def insertGames(games,mycursor,games_dict):
 insertGames("games",mydb,my_dict)
 insertGames("ps5",mydb,my_dict1)
 insertGames("pc",mydb,my_dict2)
+
+def selectGames(games,mycursor):
+    my_cursor = mycursor.cursor()
+    my_cursor.execute("SELECT * FROM games")
+    myresult = my_cursor.fetchall()
+    for i in range(1,10):
+        print(myresult[i])
+
+selectGames("games",mydb)
