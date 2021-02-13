@@ -41,7 +41,7 @@ def selectGames(games,mycursor):
     my_cursor = mycursor.cursor()
     my_cursor.execute("SELECT * FROM games")
     myresult = my_cursor.fetchall()
-    for i in range(1,10):
+    for i in range(0,10):
         print(myresult[i])
 
 selectGames("games",mydb)

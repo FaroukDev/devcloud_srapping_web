@@ -1,26 +1,23 @@
+import logging
 from bs4 import BeautifulSoup
 import urllib.request
 import urllib.error
 import ssl 
 ssl._create_default_https_context = ssl._create_unverified_context
 
-def getXBox():
-    #url of scrapping debut du script
-    urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-30/'
+logging.basicConfig(filename='test.log', encoding='utf-8', level=logging.DEBUG)
 
-    #on request la page avec urllib
+logging.info('script start')
+logging.info('Scrapping element of xbox one page with class from url link jeux videos.com')
+
+def getXBox():
+    urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-30/'
     page = urllib.request.urlopen(urlpage)
     soup = BeautifulSoup(page, 'html.parser')
-    #print(soup.prettify())
-
-    #scrap element a in xbox page
     title = soup.find_all('a', attrs={'class': 'gameTitleLink__196nPy'})
-    #results = table.find_all('tr')
-
+    logging.info('fetch element in for loop')
     games_dict = {}
-    #for loop in element a of xbox page
     for i in range(0,5):
-    #print('Number of results', title[0])
         title_slice = title[i].text
         title_slice[0:-8]
         title_slice = title_slice.replace("'"," ")
@@ -28,23 +25,15 @@ def getXBox():
     return games_dict
 
 print(getXBox())
-def getPs5():
-    #url of scrapping debut du script
-    urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
 
-    #on request la page avec urllib
+logging.info('scrapping element title ps5 in page jeux videos.com ')
+def getPs5():
+    urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
     page = urllib.request.urlopen(urlpage)
     soup = BeautifulSoup(page, 'html.parser')
-    #print(soup.prettify())
-
-    #scrap element a in xbox page
     title = soup.find_all('a', attrs={'class': 'gameTitleLink__196nPy'})
-    #results = table.find_all('tr')
-
     games_dict = {}
-    #for loop in element a of xbox page
     for i in range(0,5):
-    #print('Number of results', title[0])
         title_slice = title[i].text
         title_slice[0:-8]
         title_slice = title_slice.replace("'"," ")
@@ -53,23 +42,14 @@ def getPs5():
 
 print(getPs5())
 
+logging.info('scrapping element title pc in page jeux videos.com ')
 def getPc():
-    #url of scrapping debut du script
     urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-10/'
-
-    #on request la page avec urllib
     page = urllib.request.urlopen(urlpage)
     soup = BeautifulSoup(page, 'html.parser')
-    #print(soup.prettify())
-
-    #scrap element a in xbox page
     title = soup.find_all('a', attrs={'class': 'gameTitleLink__196nPy'})
-    #results = table.find_all('tr')
-
     games_dict = {}
-    #for loop in element a of xbox page
     for i in range(0,5):
-    #print('Number of results', title[0])
         title_slice = title[i].text
         title_slice = title_slice[0:-8]
         title_slice = title_slice.replace("'"," ")
@@ -77,6 +57,8 @@ def getPc():
     return games_dict
 
 print(getPc())
+
+logging.info("end of script")
 
   
 
