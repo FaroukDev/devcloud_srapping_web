@@ -4,12 +4,40 @@ import urllib.request
 import urllib.error
 import ssl 
 ssl._create_default_https_context = ssl._create_unverified_context
+import mysql.connector
+import logging
+#j'importe les fonction du fichier script.py
+from flask import Flask, request, render_template,jsonify
+from flask_mysql_connector import MySQL
+#https://flask-cors.readthedocs.io/en/latest/
+from flask_cors import CORS
 
-logging.basicConfig(filename='test.log', encoding='utf-8', level=logging.DEBUG)
+app = Flask(__name__)
+CORS(app)
 
+logging.basicConfig(
+    filename='test.log', 
+    level=logging.DEBUG,format= '[%(asctime)s] {%(pathname)s:%(lineno)d} %(levelname)s - %(message)s',
+    datefmt='%H:%M:%S')
 logging.info('script start')
 logging.info('Scrapping element of xbox one page with class from url link jeux videos.com')
 
+app = Flask(__name__)
+CORS(app)
+
+app.config['MYSQL_USER'] = 'root'
+app.config['MYSQL_PASSWORD'] = 'delpiero92'
+app.config['MYSQL_HOST'] = 'ms1'
+app.config['MYSQL_DATABASE'] = 'video_game'
+
+mysql = MySQL(app)
+
+
+@app.route('/')
+def index():
+    return 'hello world'
+
+@app.route('/get_xbox')
 def getXBox():
     urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-30/'
     page = urllib.request.urlopen(urlpage)
@@ -22,11 +50,13 @@ def getXBox():
         title_slice[0:-8]
         title_slice = title_slice.replace("'"," ")
         games_dict.update({i+1:title_slice})
-    return games_dict
+    return jsonify(games_dict) 
 
-print(getXBox())
+#print(getXBox())
 
-logging.info('scrapping element title ps5 in page jeux videos.com ')
+logging.info('scrapping element ps5 title in page jeux videos.com ')
+
+@app.route('/get_ps5')
 def getPs5():
     urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
     page = urllib.request.urlopen(urlpage)
@@ -38,11 +68,11 @@ def getPs5():
         title_slice[0:-8]
         title_slice = title_slice.replace("'"," ")
         games_dict.update({i+1:title_slice})
-    return games_dict
+    return jsonify(games_dict)
 
-print(getPs5())
 
-logging.info('scrapping element title pc in page jeux videos.com ')
+logging.info('scrapping element pc title in page jeux videos.com ')
+@app.route('/get_pc')
 def getPc():
     urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-10/'
     page = urllib.request.urlopen(urlpage)
@@ -54,14 +84,15 @@ def getPc():
         title_slice = title_slice[0:-8]
         title_slice = title_slice.replace("'"," ")
         games_dict.update({i+1:title_slice})
-    return games_dict
+    return jsonify(games_dict)
 
-print(getPc())
+#print(getPc())
 
 logging.info("end of script")
 
   
-
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=3000, debug=True)
     
 
 

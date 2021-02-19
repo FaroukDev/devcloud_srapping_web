@@ -1,10 +1,10 @@
 import mysql.connector
 from main import getXBox, getPs5, getPc
 
-
 my_dict = getXBox()
 my_dict1 = getPs5()
 my_dict2 = getPc()
+
 
 mydb = mysql.connector.connect(
   host="ms1",
@@ -41,7 +41,7 @@ def selectGames(games,mycursor):
     my_cursor = mycursor.cursor()
     my_cursor.execute("SELECT * FROM games")
     myresult = my_cursor.fetchall()
-    for i in range(0,10):
+    for i in range(0,5):
         print(myresult[i])
 
 selectGames("games",mydb)
