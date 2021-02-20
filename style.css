@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.title{
+    text-align: center;
+    padding: 1em;
+    color: #ffffff;
+    font-size: 3em;
+}
+
+.header{
+    background-color:rgba(black,gray,black, 0.5);
+    
+}
+
+body{
+    font-family: 'Odibee Sans', cursive;
+    background: url(img/key.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000000;
+
+}
+
+#box{
+    display:flex;
+    justify-content: space-evenly; 
+    font-size: 1.6em;
+    margin: 0 auto;
+    background-color: lightgrey;
+    opacity: 0.9;
+    padding:3em;
+    
+}
+
+.ps5,.pc,.xbox{
+    text-align: center;
+}

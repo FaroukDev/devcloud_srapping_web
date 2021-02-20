@@ -21,7 +21,7 @@ fetch('http://localhost:5000/get_pc', {mode: 'cors'})
     })
     .then(function (data1) {
         console.log("my data",data1)
-        appendPs5(data1);
+        appendPc(data1);
 
     })
     .catch(function (err) {

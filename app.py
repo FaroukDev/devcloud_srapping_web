@@ -45,7 +45,7 @@ def getXBox():
     title = soup.find_all('a', attrs={'class': 'gameTitleLink__196nPy'})
     logging.info('fetch element in for loop')
     games_dict = {}
-    for i in range(0,5):
+    for i in range(0,10):
         title_slice = title[i].text
         title_slice[0:-8]
         title_slice = title_slice.replace("'"," ")
@@ -63,7 +63,7 @@ def getPs5():
     soup = BeautifulSoup(page, 'html.parser')
     title = soup.find_all('a', attrs={'class': 'gameTitleLink__196nPy'})
     games_dict = {}
-    for i in range(0,5):
+    for i in range(0,10):
         title_slice = title[i].text
         title_slice[0:-8]
         title_slice = title_slice.replace("'"," ")
@@ -79,7 +79,7 @@ def getPc():
     soup = BeautifulSoup(page, 'html.parser')
     title = soup.find_all('a', attrs={'class': 'gameTitleLink__196nPy'})
     games_dict = {}
-    for i in range(0,5):
+    for i in range(0,10):
         title_slice = title[i].text
         title_slice = title_slice[0:-8]
         title_slice = title_slice.replace("'"," ")

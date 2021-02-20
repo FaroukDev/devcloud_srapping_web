@@ -4958,3 +4958,530 @@ DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
 [15:50:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 15:50:26] "[37mGET /get_pc HTTP/1.1[0m" 200 -
 [15:50:26] {/scrapping/app.py:46} INFO - fetch element in for loop
 [15:50:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 15:50:26] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:04:38] {/scrapping/app.py:22} INFO - script start
+[18:04:38] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:04:38] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:04:38] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[18:04:38] {/scrapping/app.py:91} INFO - end of script
+[18:04:39] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[18:04:39] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:04:39] {/scrapping/app.py:22} INFO - script start
+[18:04:39] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:04:39] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:04:39] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[18:04:39] {/scrapping/app.py:91} INFO - end of script
+[18:04:39] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:04:39] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:05:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:05:31] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:05:32] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:05:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:05:32] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:05:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:05:32] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:09:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:09:54] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:09:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:09:54] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:09:55] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:09:55] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:09:55] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:10:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:10:30] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:10:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:10:30] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:10:30] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:10:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:10:30] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:11:53] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:11:53] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:11:53] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:11:53] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:11:53] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:11:53] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:11:53] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:12:51] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:12:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:12:51] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:12:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:12:51] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:12:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:12:51] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:13:04] {/scrapping/app.py:22} INFO - script start
+[18:13:04] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:13:04] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:13:04] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[18:13:04] {/scrapping/app.py:91} INFO - end of script
+[18:13:04] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[18:13:04] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:13:05] {/scrapping/app.py:22} INFO - script start
+[18:13:05] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:13:05] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:13:05] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[18:13:05] {/scrapping/app.py:91} INFO - end of script
+[18:13:05] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:13:05] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:13:12] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:13:12] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:13:12] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:13:12] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:13:12] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:13:12] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:13:12] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:14:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:14:08] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:14:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:14:09] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:14:09] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:14:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:14:09] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:15:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:15:08] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:15:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:15:08] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:15:08] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:15:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:15:08] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:15:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:15:19] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:15:19] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:15:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:15:19] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:15:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:15:19] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:16:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:16:56] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:16:56] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:16:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:16:56] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:16:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:16:56] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:17:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:11] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:17:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:11] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:17:11] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:17:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:11] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:17:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:19] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:17:19] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:17:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:19] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:17:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:19] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:17:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:26] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:17:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:26] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:17:26] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:17:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:26] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:17:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:33] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:17:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:33] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:17:34] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:17:34] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:34] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:17:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:54] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:17:54] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:17:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:54] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:17:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:17:54] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:19:25] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:19:25] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:19:25] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:19:25] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:19:25] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:19:25] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:19:25] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:20:27] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:20:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:20:27] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:20:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:20:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[18:21:15] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:21:15] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:21:15] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:21:15] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:21:15] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:21:15] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:21:15] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:22:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:22:38] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:22:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:22:38] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:22:38] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:22:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:22:38] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:23:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:23:07] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:23:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:23:07] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:23:07] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:23:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:23:07] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:24:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:24:33] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:24:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:24:33] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:24:33] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:24:34] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:24:34] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:24:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:24:38] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:24:38] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:24:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:24:38] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:24:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:24:38] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:24:38] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:24:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:24:38] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:24:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:24:38] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:24:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:24:38] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:25:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:25:44] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:25:44] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:25:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:25:44] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:25:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:25:44] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:29:58] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:29:58] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:29:59] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:29:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:29:59] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:29:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:29:59] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:31:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:31:27] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:31:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:31:27] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:31:27] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:31:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:31:27] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:32:43] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:32:43] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:32:43] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:32:43] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:32:43] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:32:43] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:32:43] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:33:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:06] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:33:06] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:33:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:06] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:33:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:06] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:33:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:08] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:33:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:08] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:33:08] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:33:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:08] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:33:36] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:36] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:33:37] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:33:37] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:37] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:33:37] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:37] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:33:46] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:46] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:33:46] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:46] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:33:46] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:33:46] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:46] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:33:53] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:53] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:33:53] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:53] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:33:54] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:33:54] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:33:54] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:33:54] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:33:54] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:33:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:33:54] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:34:10] {/scrapping/app.py:22} INFO - script start
+[18:34:10] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:34:10] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:34:10] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[18:34:10] {/scrapping/app.py:91} INFO - end of script
+[18:34:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[18:34:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:34:11] {/scrapping/app.py:22} INFO - script start
+[18:34:11] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:34:11] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:34:11] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[18:34:11] {/scrapping/app.py:91} INFO - end of script
+[18:34:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:34:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:34:14] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:14] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:34:14] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:34:14] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:14] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:34:14] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:14] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:34:16] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:16] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:34:16] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:16] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:34:16] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:34:16] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:16] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:34:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:44] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:34:44] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:34:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:44] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:34:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:44] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:34:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:45] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:34:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:45] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:34:45] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:34:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:45] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:34:46] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:46] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:34:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:47] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:34:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:47] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:34:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:47] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:34:47] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:34:47] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:34:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:47] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:34:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:47] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:34:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:47] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:34:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:47] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:34:47] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:34:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:34:47] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:36:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:11] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:36:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:11] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:36:11] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:36:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:11] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:36:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:13] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:36:13] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:36:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:13] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:36:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:13] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:36:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:26] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:36:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:26] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:36:26] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:36:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:26] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:36:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:45] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:36:45] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:36:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:45] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:36:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:45] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:36:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:47] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:36:47] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:36:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:47] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:36:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:36:47] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:37:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:37:30] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:37:31] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:37:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:37:31] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:37:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:37:31] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:38:39] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:38:39] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:39:12] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:12] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:39:12] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:39:12] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:12] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:39:12] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:12] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:39:20] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:39:20] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:20] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:39:20] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:20] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:39:20] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:20] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:39:39] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:39] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:39:39] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:39:39] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:39] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:39:39] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:39] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:39:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:57] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:39:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:57] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:39:57] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:39:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:39:57] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:40:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:06] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:40:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:06] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:40:06] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:40:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:06] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:40:22] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:22] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:40:22] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:40:22] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:22] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:40:22] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:22] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:40:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:33] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:40:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:33] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:40:33] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:40:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:33] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:40:45] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:40:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:45] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:40:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:45] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:40:46] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:40:46] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:41:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:41:06] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:41:06] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:41:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:41:06] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:41:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:41:06] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:41:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[18:41:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:41:28] {/scrapping/app.py:22} INFO - script start
+[18:41:28] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:41:28] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:41:28] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[18:41:28] {/scrapping/app.py:91} INFO - end of script
+[18:41:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:41:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:41:40] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[18:41:40] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:41:41] {/scrapping/app.py:22} INFO - script start
+[18:41:41] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:41:41] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:41:41] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[18:41:41] {/scrapping/app.py:91} INFO - end of script
+[18:41:41] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:41:41] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:41:46] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[18:41:46] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:41:46] {/scrapping/app.py:22} INFO - script start
+[18:41:46] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:41:46] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:41:46] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[18:41:46] {/scrapping/app.py:91} INFO - end of script
+[18:41:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:41:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:41:52] {/scrapping/app.py:22} INFO - script start
+[18:41:52] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:41:52] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:41:52] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[18:41:52] {/scrapping/app.py:91} INFO - end of script
+[18:41:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[18:41:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:41:52] {/scrapping/app.py:22} INFO - script start
+[18:41:52] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:41:52] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:41:52] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[18:41:52] {/scrapping/app.py:91} INFO - end of script
+[18:41:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:41:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:41:55] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:41:55] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:41:55] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:41:55] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:41:55] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:41:55] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:41:55] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:42:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:08] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:42:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:08] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:42:08] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:42:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:08] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:42:21] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:21] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:42:21] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:42:21] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:21] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:42:21] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:21] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:42:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:31] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:42:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:31] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:42:31] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:42:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:31] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[18:42:40] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:40] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[18:42:40] {/scrapping/app.py:46} INFO - fetch element in for loop
+[18:42:40] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:40] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:42:40] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [19/Feb/2021 18:42:40] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[07:37:54] {/scrapping/app.py:22} INFO - script start
+[07:37:54] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[07:37:54] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[07:37:54] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[07:37:54] {/scrapping/app.py:91} INFO - end of script
+[07:37:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[07:37:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[07:37:54] {/scrapping/app.py:22} INFO - script start
+[07:37:54] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[07:37:54] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[07:37:54] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[07:37:54] {/scrapping/app.py:91} INFO - end of script
+[07:37:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[07:37:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[07:37:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:37:57] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[07:37:58] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:37:58] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[07:37:58] {/scrapping/app.py:46} INFO - fetch element in for loop
+[07:37:58] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:37:58] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[07:42:31] {/scrapping/app.py:46} INFO - fetch element in for loop
+[07:42:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:42:31] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[07:42:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:42:31] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[07:42:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:42:31] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[07:42:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:42:54] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[07:42:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:42:54] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[07:42:54] {/scrapping/app.py:46} INFO - fetch element in for loop
+[07:42:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:42:54] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[07:43:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:43:26] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[07:43:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:43:26] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[07:43:26] {/scrapping/app.py:46} INFO - fetch element in for loop
+[07:43:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:43:26] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[07:43:57] {/scrapping/app.py:46} INFO - fetch element in for loop
+[07:43:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:43:57] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[07:43:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:43:57] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[07:43:58] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:43:58] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[07:45:49] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:45:49] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[07:45:49] {/scrapping/app.py:46} INFO - fetch element in for loop
+[07:45:49] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:45:49] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[07:45:49] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 07:45:49] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[10:57:42] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 10:57:42] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[10:57:42] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 10:57:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[11:13:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:13:31] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:13:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:13:31] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:13:32] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:13:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:13:32] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:14:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:07] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:14:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:07] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:14:07] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:14:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:07] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:14:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:33] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:14:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:33] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:14:33] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:14:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:33] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:14:43] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:43] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:14:43] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:43] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:14:43] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:14:43] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:43] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:14:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:54] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:14:54] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:14:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:54] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:14:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:14:54] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:19:02] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:19:02] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:19:03] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:19:03] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:19:03] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:19:03] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:19:03] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:19:42] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:19:42] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:19:42] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:19:42] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:19:42] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:19:42] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:19:42] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:20:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:20:09] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:20:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:20:09] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:20:09] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:20:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:20:09] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:20:20] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:20:20] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:20:20] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:20:20] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:20:20] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:20:20] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:20:20] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:21:25] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:21:25] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:21:25] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:21:25] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:21:25] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:21:25] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:21:25] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:21:41] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:21:41] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:21:41] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:21:41] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:21:41] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:21:41] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:21:41] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:23:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:23:32] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:23:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:23:32] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:23:32] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:23:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:23:32] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:23:42] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:23:42] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:23:42] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:23:42] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:23:42] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:23:43] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:23:43] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:24:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:24:06] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:24:06] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:24:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:24:06] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:24:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:24:06] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:24:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:24:30] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:24:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:24:30] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:24:30] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:24:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:24:30] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:25:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:25:28] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:25:28] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:25:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:25:28] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:25:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:25:28] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:26:12] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:26:12] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:26:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:26:13] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:26:13] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:26:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:26:13] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:28:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:28:09] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:28:09] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:28:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:28:09] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:28:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:28:09] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:28:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:28:28] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:28:29] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:28:29] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:28:29] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:28:29] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:28:29] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:29:42] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:29:42] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:29:42] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:29:42] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:29:42] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:29:43] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:29:43] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:29:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:29:59] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:29:59] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:29:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:29:59] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:29:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:29:59] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:30:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:08] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:30:08] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:30:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:08] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:30:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:08] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:30:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:10] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:30:10] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:30:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:10] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:30:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:10] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:30:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:26] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:30:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:26] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:30:27] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:30:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:27] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:30:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:28] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:30:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:28] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:30:28] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:30:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:28] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:30:36] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:36] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:30:36] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:36] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:30:36] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:30:36] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:36] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:30:44] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:30:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:44] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:30:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:44] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:30:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:30:44] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:31:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:31:38] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:31:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:31:38] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:31:38] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:31:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:31:38] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:31:50] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:31:50] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:31:51] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:31:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:31:51] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:31:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:31:51] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:32:56] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:32:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:32:56] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:32:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:32:56] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:32:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:32:56] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:33:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:33:31] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:33:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:33:31] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:33:31] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:33:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:33:31] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:33:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:33:59] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:33:59] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:33:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:33:59] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:33:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:33:59] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:34:17] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:34:17] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:34:17] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:34:17] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:34:17] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:34:17] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:34:17] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:34:35] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:34:35] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:34:35] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:34:35] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:34:35] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:34:35] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:34:35] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:34:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:34:56] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:34:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:34:56] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:34:56] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:34:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:34:56] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:35:03] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:35:03] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:35:03] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:35:03] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:35:03] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:35:03] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:35:03] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:35:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:35:10] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:35:10] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:35:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:35:10] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:35:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:35:10] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[11:35:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:35:57] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[11:35:57] {/scrapping/app.py:46} INFO - fetch element in for loop
+[11:35:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:35:57] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[11:35:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:35:57] "[37mGET /get_pc HTTP/1.1[0m" 200 -
