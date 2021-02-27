@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+from datetime import datetime
+print(datetime.now())
 import logging
 from bs4 import BeautifulSoup
 import urllib.request
@@ -6,14 +9,17 @@ import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 import mysql.connector
 import logging
-#j'importe les fonction du fichier script.py
 from flask import Flask, request, render_template,jsonify
 from flask_mysql_connector import MySQL
-#https://flask-cors.readthedocs.io/en/latest/
 from flask_cors import CORS
+import smtplib
+from email.message import EmailMessage
+from email.utils import make_msgid
+
 
 app = Flask(__name__)
 CORS(app)
+
 
 logging.basicConfig(
     filename='test.log', 
@@ -52,7 +58,6 @@ def getXBox():
         games_dict.update({i+1:title_slice})
     return jsonify(games_dict) 
 
-#print(getXBox())
 
 logging.info('scrapping element ps5 title in page jeux videos.com ')
 
@@ -86,9 +91,9 @@ def getPc():
         games_dict.update({i+1:title_slice})
     return jsonify(games_dict)
 
-#print(getPc())
-
 logging.info("end of script")
+
+
 
   
 if __name__ == "__main__":

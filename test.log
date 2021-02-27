@@ -5485,3 +5485,991 @@ DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
 [11:35:57] {/scrapping/app.py:46} INFO - fetch element in for loop
 [11:35:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:35:57] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
 [11:35:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [20/Feb/2021 11:35:57] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[09:56:32] {/scrapping/app.py:22} INFO - script start
+[09:56:32] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[09:56:32] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[09:56:32] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[09:56:32] {/scrapping/app.py:91} INFO - end of script
+[09:56:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[09:56:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[09:56:32] {/scrapping/app.py:22} INFO - script start
+[09:56:32] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[09:56:32] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[09:56:32] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[09:56:32] {/scrapping/app.py:91} INFO - end of script
+[09:56:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[09:56:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[09:56:37] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 09:56:37] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[09:56:37] {/scrapping/app.py:46} INFO - fetch element in for loop
+[09:56:37] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 09:56:37] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[09:56:37] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 09:56:37] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[10:02:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:02:27] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[10:02:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:02:28] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[10:02:28] {/scrapping/app.py:46} INFO - fetch element in for loop
+[10:02:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:02:28] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[10:14:04] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:14:04] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[10:14:05] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:14:05] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[10:14:05] {/scrapping/app.py:46} INFO - fetch element in for loop
+[10:14:05] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:14:05] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[10:15:15] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:15:15] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[10:15:15] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:15:15] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[10:15:15] {/scrapping/app.py:46} INFO - fetch element in for loop
+[10:15:15] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:15:15] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[10:15:59] {/scrapping/app.py:46} INFO - fetch element in for loop
+[10:15:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:15:59] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[10:15:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:15:59] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[10:15:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:15:59] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[10:20:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:20:07] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[10:20:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:20:07] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[10:20:07] {/scrapping/app.py:46} INFO - fetch element in for loop
+[10:20:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:20:07] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[10:23:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:23:11] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[10:23:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:23:11] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[10:23:11] {/scrapping/app.py:46} INFO - fetch element in for loop
+[10:23:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:23:11] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[10:24:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:24:06] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[10:24:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:24:06] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[10:24:06] {/scrapping/app.py:46} INFO - fetch element in for loop
+[10:24:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:24:06] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[10:24:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:24:45] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[10:24:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:24:45] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[10:24:45] {/scrapping/app.py:46} INFO - fetch element in for loop
+[10:24:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [21/Feb/2021 10:24:45] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[08:20:55] {/scrapping/app.py:22} INFO - script start
+[08:20:55] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:20:55] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:20:55] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[08:20:55] {/scrapping/app.py:91} INFO - end of script
+[08:20:55] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[08:20:55] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[08:20:56] {/scrapping/app.py:22} INFO - script start
+[08:20:56] {/scrapping/app.py:23} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:20:56] {/scrapping/app.py:57} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:20:56] {/scrapping/app.py:74} INFO - scrapping element pc title in page jeux videos.com 
+[08:20:56] {/scrapping/app.py:91} INFO - end of script
+[08:20:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[08:20:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[08:23:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 08:23:47] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[08:23:47] {/scrapping/app.py:46} INFO - fetch element in for loop
+[08:23:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 08:23:47] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[08:23:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 08:23:47] "[37mGET /get_pc HTTP/1.1[0m" 200 -
+[10:45:04] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 10:45:04] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[10:45:04] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 10:45:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[17:45:04] {/scrapping/app.py:24} INFO - script start
+[17:45:04] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:45:04] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:45:04] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:45:04] {/scrapping/app.py:97} INFO - end of script
+[17:45:04] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[17:45:04] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:45:04] {/scrapping/app.py:24} INFO - script start
+[17:45:04] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:45:04] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:45:04] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:45:04] {/scrapping/app.py:97} INFO - end of script
+[17:45:04] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:45:05] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:45:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 17:45:06] "[31m[1mGET /email HTTP/1.1[0m" 405 -
+[17:45:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 17:45:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[17:45:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 17:45:08] "[31m[1mGET /email HTTP/1.1[0m" 405 -
+[17:45:38] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 17:45:38] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[17:46:01] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:46:01] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:46:02] {/scrapping/app.py:24} INFO - script start
+[17:46:02] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:46:02] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:46:02] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:46:02] {/scrapping/app.py:98} INFO - end of script
+[17:46:02] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:46:02] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:46:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:46:06] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:46:07] {/scrapping/app.py:24} INFO - script start
+[17:46:07] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:46:07] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:46:07] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:46:07] {/scrapping/app.py:98} INFO - end of script
+[17:46:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:46:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:46:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:46:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:46:09] {/scrapping/app.py:24} INFO - script start
+[17:46:09] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:46:09] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:46:09] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:46:09] {/scrapping/app.py:98} INFO - end of script
+[17:46:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:46:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:46:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:46:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:46:28] {/scrapping/app.py:24} INFO - script start
+[17:46:28] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:46:28] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:46:28] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:46:28] {/scrapping/app.py:99} INFO - end of script
+[17:46:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:46:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:46:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:46:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:46:31] {/scrapping/app.py:24} INFO - script start
+[17:46:31] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:46:31] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:46:31] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:46:31] {/scrapping/app.py:99} INFO - end of script
+[17:46:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:46:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:46:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:46:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:46:33] {/scrapping/app.py:24} INFO - script start
+[17:46:33] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:46:33] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:46:33] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:46:33] {/scrapping/app.py:99} INFO - end of script
+[17:46:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:46:33] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:46:53] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:46:53] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:46:54] {/scrapping/app.py:24} INFO - script start
+[17:46:54] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:46:54] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:46:54] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:46:54] {/scrapping/app.py:99} INFO - end of script
+[17:46:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:46:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:46:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:46:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:46:58] {/scrapping/app.py:24} INFO - script start
+[17:46:58] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:46:58] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:46:58] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:46:58] {/scrapping/app.py:99} INFO - end of script
+[17:46:58] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:46:58] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:46:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:46:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:47:00] {/scrapping/app.py:24} INFO - script start
+[17:47:00] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:47:00] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:47:00] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:47:00] {/scrapping/app.py:99} INFO - end of script
+[17:47:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:47:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:47:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:47:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:47:11] {/scrapping/app.py:24} INFO - script start
+[17:47:11] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:47:11] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:47:11] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:47:11] {/scrapping/app.py:99} INFO - end of script
+[17:47:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:47:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:47:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:47:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:47:13] {/scrapping/app.py:24} INFO - script start
+[17:47:13] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:47:13] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:47:13] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:47:13] {/scrapping/app.py:99} INFO - end of script
+[17:47:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:47:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:47:14] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:47:14] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:47:15] {/scrapping/app.py:24} INFO - script start
+[17:47:15] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:47:15] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:47:15] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:47:15] {/scrapping/app.py:99} INFO - end of script
+[17:47:15] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:47:15] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:50:12] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:50:12] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:50:13] {/scrapping/app.py:24} INFO - script start
+[17:50:13] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:50:13] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:50:13] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:50:13] {/scrapping/app.py:100} INFO - end of script
+[17:50:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:50:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:50:18] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:50:18] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:50:19] {/scrapping/app.py:24} INFO - script start
+[17:50:19] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:50:19] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:50:19] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:50:19] {/scrapping/app.py:106} INFO - end of script
+[17:50:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:50:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:50:20] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:50:20] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:50:20] {/scrapping/app.py:24} INFO - script start
+[17:50:20] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:50:20] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:50:20] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:50:20] {/scrapping/app.py:105} INFO - end of script
+[17:50:20] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:50:20] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:50:26] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:50:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:50:27] {/scrapping/app.py:24} INFO - script start
+[17:50:27] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:50:27] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:50:27] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:50:27] {/scrapping/app.py:103} INFO - end of script
+[17:50:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:50:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:50:49] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:50:49] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:50:50] {/scrapping/app.py:24} INFO - script start
+[17:50:50] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:50:50] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:50:50] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:50:50] {/scrapping/app.py:103} INFO - end of script
+[17:50:50] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:50:50] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:50:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:50:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:50:52] {/scrapping/app.py:24} INFO - script start
+[17:50:52] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:50:52] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:50:52] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:50:52] {/scrapping/app.py:103} INFO - end of script
+[17:50:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:50:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:50:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:50:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:50:55] {/scrapping/app.py:24} INFO - script start
+[17:50:55] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:50:55] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:50:55] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:50:55] {/scrapping/app.py:103} INFO - end of script
+[17:50:55] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:50:55] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:51:02] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:51:02] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:51:03] {/scrapping/app.py:24} INFO - script start
+[17:51:03] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:51:03] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:51:03] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:51:03] {/scrapping/app.py:102} INFO - end of script
+[17:51:03] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:51:03] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:51:39] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:51:39] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:51:40] {/scrapping/app.py:24} INFO - script start
+[17:51:40] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:51:40] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:51:40] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:51:40] {/scrapping/app.py:102} INFO - end of script
+[17:51:40] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:51:40] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:51:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:51:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:51:52] {/scrapping/app.py:24} INFO - script start
+[17:51:52] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:51:52] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:51:52] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:51:52] {/scrapping/app.py:102} INFO - end of script
+[17:51:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:51:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:52:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:52:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:52:30] {/scrapping/app.py:24} INFO - script start
+[17:52:30] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:52:30] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:52:30] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:52:30] {/scrapping/app.py:102} INFO - end of script
+[17:52:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:52:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:52:31] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:52:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:52:32] {/scrapping/app.py:24} INFO - script start
+[17:52:32] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:52:32] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:52:32] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:52:32] {/scrapping/app.py:102} INFO - end of script
+[17:52:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:52:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:52:42] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:52:42] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:52:43] {/scrapping/app.py:24} INFO - script start
+[17:52:43] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:52:43] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:52:43] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:52:43] {/scrapping/app.py:102} INFO - end of script
+[17:52:43] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:52:43] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:52:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:52:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:52:45] {/scrapping/app.py:24} INFO - script start
+[17:52:45] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:52:45] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:52:45] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:52:45] {/scrapping/app.py:102} INFO - end of script
+[17:52:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:52:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:52:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:52:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[17:52:48] {/scrapping/app.py:24} INFO - script start
+[17:52:48] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[17:52:48] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[17:52:48] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[17:52:48] {/scrapping/app.py:102} INFO - end of script
+[17:52:48] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[17:52:48] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[17:53:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[17:53:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:02:52] {/scrapping/app.py:24} INFO - script start
+[18:02:52] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:02:52] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:02:52] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[18:02:52] {/scrapping/app.py:108} INFO - end of script
+[18:02:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[18:02:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:02:52] {/scrapping/app.py:24} INFO - script start
+[18:02:52] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:02:52] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:02:52] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[18:02:52] {/scrapping/app.py:108} INFO - end of script
+[18:02:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:02:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:06:24] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 18:06:24] "[37mPOST /email HTTP/1.1[0m" 200 -
+[18:07:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[18:07:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:08:00] {/scrapping/app.py:24} INFO - script start
+[18:08:00] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:08:00] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:08:00] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[18:08:00] {/scrapping/app.py:110} INFO - end of script
+[18:08:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:08:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:08:04] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[18:08:04] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:25:00] {/scrapping/app.py:24} INFO - script start
+[18:25:00] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:25:00] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:25:00] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[18:25:00] {/scrapping/app.py:110} INFO - end of script
+[18:25:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[18:25:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:25:00] {/scrapping/app.py:24} INFO - script start
+[18:25:00] {/scrapping/app.py:25} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:25:00] {/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:25:00] {/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[18:25:00] {/scrapping/app.py:110} INFO - end of script
+[18:25:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:25:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:25:01] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 18:25:01] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:25:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[18:25:32] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:29:16] {/scrapping/app.py:25} INFO - script start
+[18:29:16] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:29:16] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:29:16] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[18:29:16] {/scrapping/app.py:123} INFO - end of script
+[18:29:16] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[18:29:16] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:29:16] {/scrapping/app.py:25} INFO - script start
+[18:29:16] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:29:16] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:29:16] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[18:29:16] {/scrapping/app.py:123} INFO - end of script
+[18:29:16] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:29:16] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:29:25] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 18:29:25] "[37mPOST /email HTTP/1.1[0m" 200 -
+[18:29:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 18:29:45] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:30:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[18:30:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:30:52] {/scrapping/app.py:25} INFO - script start
+[18:30:52] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:30:52] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:30:52] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[18:30:52] {/scrapping/app.py:123} INFO - end of script
+[18:30:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:30:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:31:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[18:31:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:31:00] {/scrapping/app.py:25} INFO - script start
+[18:31:00] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:31:00] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:31:00] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[18:31:00] {/scrapping/app.py:123} INFO - end of script
+[18:31:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:31:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:31:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[18:31:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:31:08] {/scrapping/app.py:25} INFO - script start
+[18:31:08] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:31:08] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:31:08] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[18:31:08] {/scrapping/app.py:123} INFO - end of script
+[18:31:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:31:08] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:31:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[18:31:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[18:31:11] {/scrapping/app.py:25} INFO - script start
+[18:31:11] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[18:31:11] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[18:31:11] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[18:31:11] {/scrapping/app.py:123} INFO - end of script
+[18:31:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[18:31:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[18:31:20] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 18:31:20] "[37mPOST /email HTTP/1.1[0m" 200 -
+[18:31:56] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 18:31:56] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[18:32:37] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [22/Feb/2021 18:32:37] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[08:26:07] {/scrapping/app.py:25} INFO - script start
+[08:26:07] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:26:07] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:26:07] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[08:26:07] {/scrapping/app.py:123} INFO - end of script
+[08:26:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[08:26:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[08:26:07] {/scrapping/app.py:25} INFO - script start
+[08:26:07] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:26:07] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:26:07] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[08:26:07] {/scrapping/app.py:123} INFO - end of script
+[08:26:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[08:26:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[08:26:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:26:54] "[37mPOST /email HTTP/1.1[0m" 200 -
+[08:27:51] {/scrapping/app.py:25} INFO - script start
+[08:27:51] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:27:51] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:27:51] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[08:27:51] {/scrapping/app.py:123} INFO - end of script
+[08:27:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[08:27:51] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[08:27:52] {/scrapping/app.py:25} INFO - script start
+[08:27:52] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:27:52] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:27:52] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[08:27:52] {/scrapping/app.py:123} INFO - end of script
+[08:27:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[08:27:52] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[08:27:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:27:57] "[37mPOST /email HTTP/1.1[0m" 200 -
+[08:28:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:28:44] "[37mPOST /email HTTP/1.1[0m" 200 -
+[08:29:16] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:29:16] "[31m[1mGET /email HTTP/1.1[0m" 405 -
+[08:29:17] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:29:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[08:29:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:29:19] "[31m[1mGET /email HTTP/1.1[0m" 405 -
+[08:32:49] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:32:49] "[31m[1mGET /email HTTP/1.1[0m" 405 -
+[08:33:41] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:33:41] "[31m[1mGET /email HTTP/1.1[0m" 405 -
+[08:34:07] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:34:07] "[31m[1mGET /email HTTP/1.1[0m" 405 -
+[08:36:17] {/scrapping/app.py:25} INFO - script start
+[08:36:17] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:36:17] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:36:17] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[08:36:17] {/scrapping/app.py:123} INFO - end of script
+[08:36:17] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[08:36:17] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[08:36:18] {/scrapping/app.py:25} INFO - script start
+[08:36:18] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:36:18] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:36:18] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[08:36:18] {/scrapping/app.py:123} INFO - end of script
+[08:36:18] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[08:36:18] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[08:55:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:55:59] "[37mPOST /email HTTP/1.1[0m" 200 -
+[08:56:44] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[08:56:45] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[08:56:47] {/scrapping/app.py:25} INFO - script start
+[08:56:47] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:56:47] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:56:47] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[08:56:47] {/scrapping/app.py:123} INFO - end of script
+[08:56:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[08:56:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[08:56:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[08:56:57] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[08:56:58] {/scrapping/app.py:25} INFO - script start
+[08:56:58] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:56:58] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:56:58] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[08:56:58] {/scrapping/app.py:123} INFO - end of script
+[08:56:58] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[08:56:58] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[08:56:59] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[08:57:00] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[08:57:01] {/scrapping/app.py:25} INFO - script start
+[08:57:01] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:57:01] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:57:01] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[08:57:01] {/scrapping/app.py:123} INFO - end of script
+[08:57:01] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[08:57:01] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[08:57:09] {/scrapping/app.py:25} INFO - script start
+[08:57:09] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:57:09] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:57:09] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[08:57:09] {/scrapping/app.py:123} INFO - end of script
+[08:57:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[08:57:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[08:57:09] {/scrapping/app.py:25} INFO - script start
+[08:57:09] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[08:57:09] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[08:57:09] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[08:57:09] {/scrapping/app.py:123} INFO - end of script
+[08:57:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[08:57:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[08:57:14] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:57:14] "[37mPOST /email HTTP/1.1[0m" 200 -
+[08:57:30] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 08:57:30] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[09:04:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [23/Feb/2021 09:04:13] "[37mGET /get_ps5 HTTP/1.1[0m" 200 -
+[09:15:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[09:15:12] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[09:15:13] {/scrapping/app.py:25} INFO - script start
+[09:15:13] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[09:15:13] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[09:15:13] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[09:15:13] {/scrapping/app.py:96} INFO - end of script
+[09:15:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[09:15:13] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[09:15:18] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[09:15:18] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[09:15:19] {/scrapping/app.py:25} INFO - script start
+[09:15:19] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[09:15:19] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[09:15:19] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[09:15:19] {/scrapping/app.py:96} INFO - end of script
+[09:15:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[09:15:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 253-768-365
+[20:21:18] {/scrapping/app.py:25} INFO - script start
+[20:21:18] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[20:21:18] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[20:21:18] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[20:21:18] {/scrapping/app.py:96} INFO - end of script
+[20:21:18] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[20:21:18] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[20:21:19] {/scrapping/app.py:25} INFO - script start
+[20:21:19] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[20:21:19] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[20:21:19] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[20:21:19] {/scrapping/app.py:96} INFO - end of script
+[20:21:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[20:21:19] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 333-615-876
+[20:21:47] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [26/Feb/2021 20:21:47] "[37mGET / HTTP/1.1[0m" 200 -
+[20:21:49] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [26/Feb/2021 20:21:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[20:21:55] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [26/Feb/2021 20:21:55] "[33mGET /insert_table HTTP/1.1[0m" 404 -
+[20:22:01] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [26/Feb/2021 20:22:01] "[33mGET /insert_table HTTP/1.1[0m" 404 -
+[20:22:37] {/scrapping/app.py:49} INFO - fetch element in for loop
+[20:22:37] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO - 172.17.0.1 - - [26/Feb/2021 20:22:37] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[20:24:05] {/scrapping/app.py:25} INFO - script start
+[20:24:05] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[20:24:05] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[20:24:05] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[20:24:05] {/scrapping/app.py:96} INFO - end of script
+[20:24:06] {/scrapping/app.py:49} INFO - fetch element in for loop
+[20:27:15] {/scrapping/app.py:25} INFO - script start
+[20:27:15] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[20:27:15] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[20:27:15] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[20:27:15] {/scrapping/app.py:96} INFO - end of script
+[20:27:15] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[20:27:15] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[20:27:15] {/scrapping/app.py:25} INFO - script start
+[20:27:15] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[20:27:16] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[20:27:16] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[20:27:16] {/scrapping/app.py:96} INFO - end of script
+[20:27:16] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[20:27:16] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 333-615-876
+[20:31:11] {/scrapping/app.py:25} INFO - script start
+[20:31:11] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[20:31:11] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[20:31:11] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[20:31:11] {/scrapping/app.py:96} INFO - end of script
+[20:31:12] {/scrapping/app.py:49} INFO - fetch element in for loop
+[21:36:02] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[21:36:02] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[21:36:02] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[21:36:02] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[21:36:02] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:96} INFO - end of script
+[21:36:02] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:49} INFO - fetch element in for loop
+[21:36:23] {app.py:25} INFO - script start
+[21:36:23] {app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[21:36:23] {app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[21:36:23] {app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[21:36:23] {app.py:96} INFO - end of script
+[21:36:23] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[21:36:23] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[21:36:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[21:36:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[21:36:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[21:36:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[21:36:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:96} INFO - end of script
+[21:36:24] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[21:36:24] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[21:36:34] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[21:36:34] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[21:36:34] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[21:36:34] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[21:36:34] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:96} INFO - end of script
+[21:36:34] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:49} INFO - fetch element in for loop
+[21:37:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[21:37:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[21:37:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[21:37:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[21:37:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:96} INFO - end of script
+[21:37:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:49} INFO - fetch element in for loop
+[20:39:00] {/scrapping/app.py:25} INFO - script start
+[20:39:00] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[20:39:00] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[20:39:00] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[20:39:00] {/scrapping/app.py:96} INFO - end of script
+[20:39:01] {/scrapping/app.py:49} INFO - fetch element in for loop
+[20:39:27] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[20:39:28] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[20:39:53] {/scrapping/app.py:25} INFO - script start
+[20:39:53] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[20:39:53] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[20:39:53] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[20:39:53] {/scrapping/app.py:96} INFO - end of script
+[20:39:53] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[20:39:53] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[20:39:54] {/scrapping/app.py:25} INFO - script start
+[20:39:54] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[20:39:54] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[20:39:54] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[20:39:54] {/scrapping/app.py:96} INFO - end of script
+[20:39:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[20:39:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 333-615-876
+[20:39:59] {/scrapping/app.py:25} INFO - script start
+[20:39:59] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[20:39:59] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[20:39:59] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[20:39:59] {/scrapping/app.py:96} INFO - end of script
+[20:39:59] {/scrapping/app.py:49} INFO - fetch element in for loop
+[20:40:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/scrapping/app.py', reloading
+[20:40:09] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[20:40:10] {/scrapping/app.py:25} INFO - script start
+[20:40:10] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[20:40:10] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[20:40:10] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[20:40:10] {/scrapping/app.py:96} INFO - end of script
+[20:40:10] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[20:40:11] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 333-615-876
+[10:47:40] {app.py:25} INFO - script start
+[10:47:40] {app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[10:47:40] {app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[10:47:40] {app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[10:47:40] {app.py:96} INFO - end of script
+[10:48:13] {app.py:25} INFO - script start
+[10:48:13] {app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[10:48:13] {app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[10:48:13] {app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[10:48:13] {app.py:96} INFO - end of script
+[10:48:13] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[10:48:13] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[10:48:14] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[10:48:14] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[10:48:14] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[10:48:14] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[10:48:14] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:96} INFO - end of script
+[10:48:14] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[10:48:14] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[10:48:39] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO - 127.0.0.1 - - [27/Feb/2021 10:48:39] "[37mGET / HTTP/1.1[0m" 200 -
+[10:48:39] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO - 127.0.0.1 - - [27/Feb/2021 10:48:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[10:50:11] {app.py:25} INFO - script start
+[10:50:11] {app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[10:50:11] {app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[10:50:11] {app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[10:50:11] {app.py:96} INFO - end of script
+[10:50:11] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[10:50:11] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[10:50:12] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[10:50:12] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[10:50:12] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[10:50:12] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[10:50:12] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:96} INFO - end of script
+[10:50:12] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[10:50:12] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[10:50:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:49} INFO - fetch element in for loop
+[10:50:24] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO - 127.0.0.1 - - [27/Feb/2021 10:50:24] "[37mGET /get_xbox HTTP/1.1[0m" 200 -
+[09:52:53] {/scrapping/app.py:25} INFO - script start
+[09:52:53] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[09:52:53] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[09:52:53] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[09:52:53] {/scrapping/app.py:96} INFO - end of script
+[09:52:53] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[09:52:53] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[09:52:53] {/scrapping/app.py:25} INFO - script start
+[09:52:53] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[09:52:54] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[09:52:54] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[09:52:54] {/scrapping/app.py:96} INFO - end of script
+[09:52:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[09:52:54] {/usr/local/lib/python3.9/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 333-615-876
+[09:53:07] {/scrapping/app.py:25} INFO - script start
+[09:53:07] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[09:53:07] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[09:53:07] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[09:53:07] {/scrapping/app.py:96} INFO - end of script
+[09:53:07] {/scrapping/app.py:49} INFO - fetch element in for loop
+[10:59:21] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/Users/farouk/Documents/simplon/amine/scrapping/app.py', reloading
+[10:59:21] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[11:00:20] {app.py:25} INFO - script start
+[11:00:20] {app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:00:20] {app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:00:20] {app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[11:00:20] {app.py:96} INFO - end of script
+[11:00:20] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[11:00:20] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[11:00:21] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[11:00:21] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:00:21] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:00:21] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[11:00:21] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:96} INFO - end of script
+[11:00:21] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[11:00:21] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[11:02:50] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/Users/farouk/Documents/simplon/amine/scrapping/app.py', reloading
+[11:02:50] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[11:02:51] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[11:02:51] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:02:51] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:02:51] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[11:02:51] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:96} INFO - end of script
+[11:02:51] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[11:02:51] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[11:03:34] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/Users/farouk/Documents/simplon/amine/scrapping/app.py', reloading
+[11:03:34] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[11:06:17] {app.py:25} INFO - script start
+[11:06:17] {app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:06:17] {app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:06:17] {app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[11:06:17] {app.py:96} INFO - end of script
+[11:06:17] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[11:06:17] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[11:06:18] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[11:06:18] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:06:18] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:06:18] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[11:06:18] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:96} INFO - end of script
+[11:06:18] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[11:06:18] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[10:06:23] {/scrapping/app.py:25} INFO - script start
+[10:06:23] {/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[10:06:23] {/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[10:06:23] {/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[10:06:23] {/scrapping/app.py:96} INFO - end of script
+[10:06:24] {/scrapping/app.py:49} INFO - fetch element in for loop
+[11:06:52] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[11:06:52] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:06:52] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:60} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:06:52] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:77} INFO - scrapping element pc title in page jeux videos.com 
+[11:06:52] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:96} INFO - end of script
+[11:06:53] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:49} INFO - fetch element in for loop
+[11:10:41] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:27} INFO - script start
+[11:10:41] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:10:41] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:10:41] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[11:10:41] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:98} INFO - end of script
+[11:10:42] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:51} INFO - fetch element in for loop
+[11:11:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:27} INFO - script start
+[11:11:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:11:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:11:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[11:11:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:98} INFO - end of script
+[11:11:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:51} INFO - fetch element in for loop
+[11:11:29] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:27} INFO - script start
+[11:11:29] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:11:29] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:11:29] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[11:11:29] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:98} INFO - end of script
+[11:11:30] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:51} INFO - fetch element in for loop
+[11:28:26] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:27} INFO - script start
+[11:28:26] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:28:26] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:28:26] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[11:28:26] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:98} INFO - end of script
+[11:33:56] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:27} INFO - script start
+[11:33:56] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:33:56] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:33:56] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[11:33:56] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:98} INFO - end of script
+[11:34:37] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:27} INFO - script start
+[11:34:37] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:34:37] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:34:37] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[11:34:37] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:98} INFO - end of script
+[11:34:41] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:27} INFO - script start
+[11:34:41] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:34:41] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:34:41] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[11:34:41] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:98} INFO - end of script
+[11:47:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[11:47:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:47:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:47:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[11:47:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[11:48:03] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[11:48:03] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:48:03] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:48:03] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[11:48:03] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[11:48:28] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[11:48:28] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:48:28] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:48:28] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[11:48:28] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[11:52:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[11:52:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:52:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:52:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[11:52:24] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[11:52:57] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[11:52:57] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:52:57] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:52:57] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[11:52:57] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[11:56:48] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[11:56:48] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:56:48] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:56:48] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[11:56:48] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[11:57:14] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[11:57:14] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[11:57:14] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[11:57:14] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[11:57:14] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[12:23:54] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[12:23:54] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:23:54] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:23:54] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[12:23:54] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[12:24:40] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[12:24:40] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:24:40] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:24:40] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[12:24:40] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[12:24:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[12:24:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:24:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:24:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[12:24:58] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[12:26:36] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[12:26:36] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:26:36] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:26:36] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[12:26:36] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[12:27:09] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[12:27:09] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:27:09] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:27:09] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[12:27:09] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[12:29:05] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[12:29:05] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:29:05] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:29:05] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[12:29:05] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[12:30:08] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:25} INFO - script start
+[12:30:08] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:26} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:30:08] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:59} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:30:08] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:76} INFO - scrapping element pc title in page jeux videos.com 
+[12:30:08] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:91} INFO - end of script
+[12:45:17] {app.py:28} INFO - script start
+[12:45:17] {app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:45:17] {app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:45:17] {app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[12:45:17] {app.py:94} INFO - end of script
+[12:45:17] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[12:45:17] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[12:45:17] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - script start
+[12:45:17] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:45:17] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:45:17] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[12:45:17] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:94} INFO - end of script
+[12:45:17] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[12:45:18] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[12:50:47] {app.py:28} INFO - script start
+[12:50:47] {app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:50:47] {app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:50:47] {app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[12:50:47] {app.py:94} INFO - end of script
+[12:50:47] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[12:50:47] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[12:50:48] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - script start
+[12:50:48] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:50:48] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:50:48] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[12:50:48] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:94} INFO - end of script
+[12:50:48] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[12:50:48] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[12:51:36] {app.py:28} INFO - script start
+[12:51:36] {app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:51:36] {app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:51:36] {app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[12:51:36] {app.py:94} INFO - end of script
+[12:51:36] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[12:51:36] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[12:51:36] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - script start
+[12:51:36] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:51:36] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:51:36] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[12:51:36] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:94} INFO - end of script
+[12:51:36] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[12:51:36] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[12:54:30] {app.py:28} INFO - script start
+[12:54:30] {app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:54:30] {app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:54:30] {app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[12:54:30] {app.py:94} INFO - end of script
+[12:54:30] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+[12:54:30] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[12:54:30] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - script start
+[12:54:30] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:54:30] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:54:30] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[12:54:30] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:94} INFO - end of script
+[12:54:30] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[12:54:30] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[12:55:10] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/Users/farouk/Documents/simplon/amine/scrapping/app.py', reloading
+[12:55:10] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[12:55:11] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - script start
+[12:55:11] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:55:11] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:55:11] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[12:55:11] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:94} INFO - end of script
+[12:55:11] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[12:55:11] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[12:55:14] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/Users/farouk/Documents/simplon/amine/scrapping/app.py', reloading
+[12:55:14] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[12:55:15] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - script start
+[12:55:15] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[12:55:15] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[12:55:15] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[12:55:15] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:94} INFO - end of script
+[12:55:15] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[12:55:15] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[13:09:06] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/Users/farouk/Documents/simplon/amine/scrapping/app.py', reloading
+[13:09:06] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[13:09:07] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - script start
+[13:09:07] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[13:09:07] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[13:09:07] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[13:09:07] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:94} INFO - end of script
+[13:09:07] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[13:09:07] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[13:09:16] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/Users/farouk/Documents/simplon/amine/scrapping/app.py', reloading
+[13:09:16] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[13:09:17] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - script start
+[13:09:17] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[13:09:17] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[13:09:17] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[13:09:17] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:94} INFO - end of script
+[13:09:17] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[13:09:17] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[13:09:25] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/Users/farouk/Documents/simplon/amine/scrapping/app.py', reloading
+[13:09:25] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[13:09:26] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - script start
+[13:09:26] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[13:09:26] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[13:09:26] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[13:09:26] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:94} INFO - end of script
+[13:09:26] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[13:09:26] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912
+[13:09:30] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Detected change in '/Users/farouk/Documents/simplon/amine/scrapping/app.py', reloading
+[13:09:30] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Restarting with stat
+[13:09:31] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:28} INFO - script start
+[13:09:31] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:29} INFO - Scrapping element of xbox one page with class from url link jeux videos.com
+[13:09:31] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:62} INFO - scrapping element ps5 title in page jeux videos.com 
+[13:09:31] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:79} INFO - scrapping element pc title in page jeux videos.com 
+[13:09:31] {/Users/farouk/Documents/simplon/amine/scrapping/app.py:94} INFO - end of script
+[13:09:31] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} WARNING -  * Debugger is active!
+[13:09:31] {/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/werkzeug/_internal.py:113} INFO -  * Debugger PIN: 269-784-912

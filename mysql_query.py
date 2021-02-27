@@ -1,5 +1,6 @@
+import importlib
 import mysql.connector
-from main import getXBox, getPs5, getPc
+from  app import getXBox, getPs5, getPc
 
 my_dict = getXBox()
 my_dict1 = getPs5()
