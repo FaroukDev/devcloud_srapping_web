@@ -15,6 +15,10 @@ from flask_cors import CORS
 import smtplib
 from email.message import EmailMessage
 from email.utils import make_msgid
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+import re
+import time
 
 
 app = Flask(__name__)
@@ -94,7 +98,49 @@ def getPc():
 logging.info("end of script")
 
 
+def send_email(games):
+    urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
+    page = urllib.request.urlopen(urlpage)
+    soup = BeautifulSoup(page, 'html.parser')
+    title = soup.find_all('a', attrs={'class': 'gameTitleLink__196nPy'})
+    games_dict = {}
+    for i in range(0,10):
+        title_slice = title[i].text
+        title_slice[0:-8]
+        title_slice = title_slice.replace("'"," ")
+        games_dict.update({i+1:title_slice})
+        jsonify(games_dict)
+    from_gmail_user = "extramilessimplon@gmail.com"
+    to_gmail_user = "extramilessimplon@gmail.com"
+    gmail_password = "delpiero92"
 
+    msg = MIMEMultipart()
+    body = MIMEText("Voici les derniers jeux" + games_dict)
+    msg.attach(body)
+
+    try:
+        server = smtplib.SMTP_SSL("smtp.gmail.com", 465)
+        server.ehlo()
+        server.login(from_gmail_user, gmail_password)
+        server.sendmail(from_gmail_user, to_gmail_user,msg.as_string())
+        server.close()
+        print("email sent !")
+    except Exception as e:
+        print("Email not sent")
+        print(e)
+
+
+urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
+cron = time.strftime('%Y-%-m-%-d')
+file_name = cron + ".txt"
+output = open(file_name, "w")
+webpage = urllib.request.urlopen(urlpage).read().decode('utf-8')
+soup = BeautifulSoup(webpage, 'html.parser')
+title = soup.find_all('a', attrs={'class': 'gameTitleLink__196nPy'})
+webpage = re.sub( r'<[^>]*>', ' ', webpage ).strip()
+output.write(webpage)
+
+print("Ok done !")
   
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=3000, debug=True)
