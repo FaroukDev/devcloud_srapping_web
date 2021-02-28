@@ -95,8 +95,6 @@ def getPc():
         games_dict.update({i+1:title_slice})
     return jsonify(games_dict)
 
-logging.info("end of script")
-
 
 def send_email(games):
     urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
@@ -129,6 +127,7 @@ def send_email(games):
         print("Email not sent")
         print(e)
 
+loggin.info("scrapping games from jeux_videos.com")
 def scrapperGames():
     urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
     cron = time.strftime('%Y-%-m-%-d')
@@ -147,9 +146,9 @@ def scrapperGames():
     return output.write(json.dumps(games_dict))
 
 scrapperGames()
-    
 
 print("Ok done !")
+logging.info("end of script")
   
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=3000, debug=True)
