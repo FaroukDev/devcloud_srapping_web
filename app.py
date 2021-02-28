@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 from datetime import datetime
 print(datetime.now())
 import logging
@@ -127,7 +126,7 @@ def send_email(games):
         print("Email not sent")
         print(e)
 
-loggin.info("scrapping games from jeux_videos.com")
+logging.info("scrapping games from jeux_videos.com")
 def scrapperGames():
     urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
     cron = time.strftime('%Y-%-m-%-d')
