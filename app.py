@@ -9,7 +9,7 @@ import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 import mysql.connector
 import logging
-from flask import Flask, request, render_template,jsonify
+from flask import Flask, request, render_template,jsonify,json
 from flask_mysql_connector import MySQL
 from flask_cors import CORS
 import smtplib
@@ -129,16 +129,25 @@ def send_email(games):
         print("Email not sent")
         print(e)
 
+def scrapperGames():
+    urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
+    cron = time.strftime('%Y-%-m-%-d')
+    file_name = cron + ".txt"
+    output = open(file_name, "w")
+    webpage = urllib.request.urlopen(urlpage).read().decode('utf-8')
+    soup = BeautifulSoup(webpage, 'html.parser')
+    title = soup.find_all('a', attrs={'class': 'gameTitleLink__196nPy'})
+    webpage = re.sub( r'<[^>]*>', ' ', webpage ).strip()
+    games_dict = {}
+    for i in range(0,10):
+        title_slice = title[i].text
+        title_slice[0:-8]
+        title_slice = title_slice.replace("'"," ")
+        games_dict.update({i+1:title_slice})
+    return output.write(json.dumps(games_dict))
 
-urlpage = 'https://www.jeuxvideo.com/meilleurs/machine-22/'
-cron = time.strftime('%Y-%-m-%-d')
-file_name = cron + ".txt"
-output = open(file_name, "w")
-webpage = urllib.request.urlopen(urlpage).read().decode('utf-8')
-soup = BeautifulSoup(webpage, 'html.parser')
-title = soup.find_all('a', attrs={'class': 'gameTitleLink__196nPy'})
-webpage = re.sub( r'<[^>]*>', ' ', webpage ).strip()
-output.write(webpage)
+scrapperGames()
+    
 
 print("Ok done !")
   
