@@ -17,7 +17,7 @@ pip install smtplib
 ## Usage
 
 ```
-run the python3 app.py command to launch the script
+run the script command with python3 app.py
 ```
 
 ```python
