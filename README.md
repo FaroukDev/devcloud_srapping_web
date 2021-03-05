@@ -47,5 +47,7 @@ import time
 
 
 ```
-
-
+```
+here is the front-end display
+```
+![](https://user-images.githubusercontent.com/43003646/110123860-b85a0700-7dc1-11eb-8973-22bc074ee54b.png)
