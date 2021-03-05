@@ -22,31 +22,13 @@ pip install smtplib
 ```
 run the script with "python3 app.py"
 ```
+## Tech
 
-```python
-from datetime import datetime
-print(datetime.now())
-import logging
-from bs4 import BeautifulSoup
-import urllib.request
-import urllib.error
-import ssl 
-ssl._create_default_https_context = ssl._create_unverified_context
-import mysql.connector
-import logging
-from flask import Flask, request, render_template,jsonify,json
-from flask_mysql_connector import MySQL
-from flask_cors import CORS
-import smtplib
-from email.message import EmailMessage
-from email.utils import make_msgid
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
-import re
-import time
-
-
-```
+```[Python] 🐍 - Awesome high level Lang ;)
+[Flask] ⚗️ - Web framework for creating Python API based apps
+[Html] - Html 
+[Css] - Css
+[Docker] 🐳 - Great to create container based isolated apps
 ```
 here is the front-end display
 ```
