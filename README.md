@@ -1,5 +1,5 @@
 The project consists to scrap data from jeuxvideos.com on different url.
-[Imgur](https://i.imgur.com/wFNQ5Av.gif)
+[Imgur](https://github.com/FaroukDev/devcloud_srapping_web/issues/1#issue-823047005)
 
 ## Installation
 
