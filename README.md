@@ -1,4 +1,4 @@
-The project consists to scrap data from jeuxvideos.com.
+The project consists to scrap data from jeuxvideos.com on different url.
 
 ## Installation
 
