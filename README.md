@@ -1,5 +1,5 @@
 The project consists to scrap data from jeuxvideos.com on different url.
-![](../master/scra.gif)
+![](../main/scra.gif)
 
 ## Installation
 
