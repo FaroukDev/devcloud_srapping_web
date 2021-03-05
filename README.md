@@ -1,7 +1,7 @@
 The project consists to scrap data from jeuxvideos.com.
 
 
-![alt text](https://user-images.githubusercontent.com/43003646/110116550-efc3b600-7db7-11eb-9b39-24bb6005dcea.gif)
+![games](https://user-images.githubusercontent.com/43003646/110122268-b1ca9000-7dbf-11eb-8f31-08fe4d2ec7b7.jpg)
 
 ## Installation
 
