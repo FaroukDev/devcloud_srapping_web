@@ -16,6 +16,21 @@ pip install mysql-connector
 pip install Flask-Cors
 pip install smtplib
 ```
+## Front-end
+
+```python
+-HTML
+-CSS
+-JavaScript
+```
+
+## Back-end
+
+```python
+-Python
+-Mysql
+
+```
 
 ## Usage
 
